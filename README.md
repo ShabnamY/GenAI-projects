@@ -10,10 +10,8 @@ A collection of projects exploring generative AI, prompt engineering, AI-assiste
 
 A 54-second stylised 3D animated short following a young woman who dreams of travelling, works towards independence, and forms a heartwarming connection with a stray cat.
 
-**[Explore the project, prompts, and creative process →](somewhere-she-belonged/)**
-
-- **Final film:** [Watch or download the MP4](somewhere-she-belonged/video/Somewhere%20She%20Belonged.mp4)
-- **Alternative viewing:** [Google Drive](https://drive.google.com/file/d/1YGd4iAH9K1qxBmvj7nBlQP139f9_gTb7/view?usp=sharing)
+**Final film — GitHub:** [Watch or download the MP4](video/Somewhere%20She%20Belonged.mp4)
+- **Google Drive backup:** [Watch Somewhere She Belonged](https://drive.google.com/file/d/1YGd4iAH9K1qxBmvj7nBlQP139f9_gTb7/view?usp=sharing)
 
 #### Tools and Workflow
 
